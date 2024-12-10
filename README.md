@@ -1,5 +1,4 @@
 ## CARRINHO DE COMPRAR
+Carrinho de compras simples feito usando um template.
 
-# Carrinho de compras simples feito usando um template.
-
-# (HTML, JS E CSS)
+(HTML, JS E CSS)
